@@ -1,0 +1,81 @@
+
+
+========================================
+1.fundamentals overview
+========================================
+#resources :
+1- https://docs.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-3.1&tabs=windows
+
+==========================================
+2.The Startup class
+- The Startup class used for ?
+- ConfigureServices method used for :
+- Configure method used for :
+- The Startup class is specified when ?
+- what are the service types can be injected into the Startup constructor :
+- Multiple Startup
+   - When the app defines separate Startup classes for different environments 
+     , the appropriate Startup class is selected at runtime depend on ?
+- Configure services without Startup
+- Extend Startup with startup filters
+==========================================
+#resources :
+1- https://docs.microsoft.com/en-us/aspnet/core/fundamentals/startup?view=aspnetcore-3.1
+
+==========================================
+3.dependency injection
+1- what is dependency injection ?
+2- problems of dependency ?
+3- how to solve this problems ?
+4- example 
+==========================================
+#resources :
+1- https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-3.1
+
+==========================================
+4.
+==========================================
+
+
+==========================================
+5.
+==========================================
+
+
+==========================================
+6.
+==========================================
+
+
+==========================================
+7.
+==========================================
+
+
+==========================================
+8.
+==========================================
+
+
+==========================================
+9.
+==========================================
+
+
+==========================================
+10.
+==========================================
+
+==========================================
+11.
+==========================================
+
+
+==========================================
+12.
+==========================================
+
+
+==========================================
+13.
+==========================================
