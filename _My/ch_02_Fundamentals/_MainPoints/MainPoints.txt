@@ -28,6 +28,8 @@
 2- problems of dependency ?
 3- how to solve this problems ?
 4- example 
+5- types of lifetimes
+6- Register groups of services with extension methods
 ==========================================
 #resources :
 1- https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-3.1
