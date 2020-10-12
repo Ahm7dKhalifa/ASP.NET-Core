@@ -35,9 +35,16 @@
 1- https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-3.1
 
 ==========================================
-4.
+4.Middleware 
+- what is Middleware ?
+- ASP.NET Core Request Processing and Middleware order
+- Middleware configured using Run, Map, and Use extension methods.
+- Request delegate
+- short-circuiting the request pipeline
 ==========================================
-
+#resources :
+1- https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-3.1
+2- https://www.tutorialsteacher.com/core/aspnet-core-middleware
 
 ==========================================
 5.
