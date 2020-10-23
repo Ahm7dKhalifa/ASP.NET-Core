@@ -37,7 +37,7 @@
 ==========================================
 4.Middleware 
 - what is Middleware ?
-- ASP.NET Core Request Processing and Middleware order
+- http Request Processing Life Cycles in ASP.NET Core and Middleware order
 - Middleware configured using Run, Map, and Use extension methods.
 - Request delegate
 - short-circuiting the request pipeline
@@ -47,15 +47,30 @@
 2- https://www.tutorialsteacher.com/core/aspnet-core-middleware
 
 ==========================================
-5.
+5.Host :
+- Host definition
+- The main reason for including all of the app's interdependent resources in one object 
+- Set up a host In Program Class - Main Method
 ==========================================
-
+#resources :
+1- https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/generic-host?view=aspnetcore-3.1
 
 ==========================================
-6.
+6.Web servers with ASP.NET Core applications
+  - what is web server ?
+  - built-in servers with asp.net core apps
+       - Kestrel :
+           - as an edge server
+           - with a reverse proxy server
+       - HTTP.sys
+  - Custom servers
 ==========================================
-
-
+#resources :
+0- https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server
+1- https://docs.microsoft.com/en-us/aspnet/core/fundamentals/servers/?view=aspnetcore-3.1&tabs=windows
+2- https://dotnettutorials.net/lesson/kestrel-web-server-asp-net-core/
+3- https://www.tektutorialshub.com/asp-net-core/asp-net-core-kestrel-web-server/
+4- https://stackify.com/what-is-kestrel-web-server/
 ==========================================
 7.
 ==========================================
