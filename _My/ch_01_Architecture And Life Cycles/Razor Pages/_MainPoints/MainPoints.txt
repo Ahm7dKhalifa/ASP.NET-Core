@@ -1,0 +1,81 @@
+
+
+========================================
+1.what is Razor?
+========================================
+#resources :
+1- https://www.tutorialsteacher.com/mvc/razor-syntax
+2- https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-3.1
+3- https://www.w3schools.com/asp/razor_intro.asp
+4- https://www.javatpoint.com/asp-net-razor
+
+==========================================
+2.what is Asp.net Core Razor Pages ?
+  - Compare MVC And Razor Pages
+  - When should you use Razor Pages?
+==========================================
+#resources :
+1- https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-3.1&tabs=visual-studio
+2- https://www.twilio.com/blog/introduction-asp-net-core-razor-pages
+
+==========================================
+3.Folders Or Files Of Asp.net Core Razor Pages 
+==========================================
+#resources :
+1- https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-3.1&tabs=visual-studio
+
+==========================================
+4.Components Or Subsystems in Asp.net Core Architecture
+==========================================
+#resources :
+1-https://speakerdeck.com/davidfowl/asp-dot-net-core-architecture-overview
+
+==========================================
+5.Books In Architecture
+==========================================
+#resources :
+1- Architecting-Modern-Web-Applications-with-ASP.NET-Core-and-Azure
+https://dotnet.microsoft.com/learn/aspnet/architecture
+
+==========================================
+6.Application And Request Life Cycle In Asp.net Core
+ - ASP.NET Core Middleware Or Http Pipeline
+==========================================
+#resources :
+1- https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-3.1
+2- https://www.youtube.com/watch?v=2SRUc7zZiyw
+3- https://www.techbloginterview.com/asp-net-core-the-mvc-request-life-cycle/
+4- https://www.telerik.com/blogs/understanding-asp-net-core-initialization
+5- https://www.tutorialsteacher.com/core/aspnet-core-middleware
+==========================================
+7.
+==========================================
+
+
+==========================================
+8.
+==========================================
+
+
+==========================================
+9.
+==========================================
+
+
+==========================================
+10.
+==========================================
+
+==========================================
+11.
+==========================================
+
+
+==========================================
+12.
+==========================================
+
+
+==========================================
+13.
+==========================================
