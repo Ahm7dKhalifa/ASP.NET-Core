@@ -1,5 +1,5 @@
 
-
+C1 --> Razor Pages in ASP.NET Core: Getting Started --> Course On pluralsight.com
 ========================================
 1.what is Razor?
 ========================================
@@ -47,6 +47,9 @@ https://dotnet.microsoft.com/learn/aspnet/architecture
 3- https://www.techbloginterview.com/asp-net-core-the-mvc-request-life-cycle/
 4- https://www.telerik.com/blogs/understanding-asp-net-core-initialization
 5- https://www.tutorialsteacher.com/core/aspnet-core-middleware
+
+6- C1
+
 ==========================================
 7.
 ==========================================

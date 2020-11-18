@@ -3,20 +3,41 @@
 ========================================
 1.Request
   - Files Or Classes That Receive And Process Request
-  - Receive Client Data From Query Parameters
-  - Receive Client Data From Request Body
-      - Model Binding
-      - Model Validation
-  - Access Request Header
-  - Access Request Body
+  - Send Data From Browser Or Client To Server :
+        - By Query Parameters
+        - By Html Form
+                 - HTML Form , What Is It ?
+                 - HTML Form Attributes
+                 - HTML Form Elements
+                 - How does http file upload work ?
+        - Inside Request Body In General
+  - Receive Data From Client In The Server ; 
+        - By Global Objects Like : Request.Form , ...
+        - By Model Binding 
+             - Model Binding Types : 
+                  - Action Parameters 
+                  - Class Properties
+             - Model Binding With Variable Types 
+                  - Simple Or Native Variables Vs Complex Objects
+             - Model Binding With Collections 
+                  - Simple Collections vs Complex Collections
+             - Model Binding With Http Methods :
+                  - Get Vs Post
+  - Access Request 
+        - Access Request Headers
+        - Access Request Body
+  - Handle Same Request Or Url With Different HttpVerb : Get , Post , ..
+  - Max Http Request Size
 ========================================
 
 
 ==========================================
 2.Response
-  - Response Types
   - Write Response Header And Body
+  - Response Types
   - Files Or Classes That Process Response
+  - Move Data Between : 
+    Files Or Classes That Receive And Process Request && Files Or Classes That Process Response
 ==========================================
 
 

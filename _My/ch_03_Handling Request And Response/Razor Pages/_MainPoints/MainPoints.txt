@@ -1,0 +1,85 @@
+
+C1 --> Razor Pages in ASP.NET Core: Getting Started --> Course On pluralsight.com
+
+========================================
+1.Files Or Classes That Receive And Process Request
+========================================
+#resources :
+1- C1
+
+==========================================
+2.Send And Receive Data 
+==========================================
+#resources :
+1- C1
+
+2- 
+https://www.w3schools.com/html/html_forms.asp
+
+3- https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data 
+
+4- 
+4.1 https://stackoverflow.com/questions/8659808/how-does-http-file-upload-work
+4.2 https://stackoverflow.com/questions/39952308/how-does-http-file-upload-work-for-large-files
+4.3 https://stackoverflow.com/questions/4526273/what-does-enctype-multipart-form-data-mean
+4.5 https://stackoverflow.com/questions/1342506/why-is-form-enctype-multipart-form-data-required-when-uploading-a-file
+
+5. https://www.w3.org/TR/html401/interact/forms.html#h-17.13.4
+
+6.
+6.1 https://www.learnrazorpages.com/razor-pages/forms
+6.2 https://www.learnrazorpages.com/razor-pages/model-binding
+
+7.https://docs.microsoft.com/en-us/aspnet/core/mvc/models/model-binding?view=aspnetcore-5.0
+==========================================
+3.
+==========================================
+
+
+==========================================
+4.
+==========================================
+
+
+==========================================
+5.
+==========================================
+
+
+==========================================
+6.
+==========================================
+
+
+==========================================
+7.
+==========================================
+
+
+==========================================
+8.
+==========================================
+
+
+==========================================
+9.
+==========================================
+
+
+==========================================
+10.
+==========================================
+
+==========================================
+11.
+==========================================
+
+
+==========================================
+12.
+==========================================
+
+
+==========================================
+13.
+==========================================
