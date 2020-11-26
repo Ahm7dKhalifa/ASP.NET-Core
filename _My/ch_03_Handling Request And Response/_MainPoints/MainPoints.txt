@@ -3,6 +3,10 @@
 ========================================
 1.Request
   - Files Or Classes That Receive And Process Request
+      - inheritance from ?
+      - attributes or properties of this class
+      - methods 
+      - if you can create your custom classes
   - Send Data From Browser Or Client To Server :
         - By Query Parameters
         - By Html Form
@@ -23,21 +27,18 @@
                   - Simple Collections vs Complex Collections
              - Model Binding With Http Methods :
                   - Get Vs Post
+             - Model Validation
   - Access Request 
         - Access Request Headers
         - Access Request Body
-  - Handle Same Request Or Url With Different HttpVerb : Get , Post , ..
-  - Max Http Request Size
 ========================================
 
 
 ==========================================
 2.Response
-  - Write Response Header And Body
   - Response Types
-  - Files Or Classes That Process Response
-  - Move Data Between : 
-    Files Or Classes That Receive And Process Request && Files Or Classes That Process Response
+  - Write Response Header And Body
+  - Files Or Classes That Process Response 
 ==========================================
 
 

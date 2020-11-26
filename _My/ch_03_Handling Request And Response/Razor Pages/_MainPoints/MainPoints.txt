@@ -6,7 +6,8 @@ C1 --> Razor Pages in ASP.NET Core: Getting Started --> Course On pluralsight.co
 ========================================
 #resources :
 1- C1
-
+2- https://www.learnrazorpages.com/razor-pages/pagemodel
+3- https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razorpages.pagemodel?view=aspnetcore-5.0
 ==========================================
 2.Send And Receive Data 
 ==========================================
@@ -31,10 +32,14 @@ https://www.w3schools.com/html/html_forms.asp
 6.2 https://www.learnrazorpages.com/razor-pages/model-binding
 
 7.https://docs.microsoft.com/en-us/aspnet/core/mvc/models/model-binding?view=aspnetcore-5.0
-==========================================
-3.
-==========================================
 
+==========================================
+3.Response Types On Razor Pages
+==========================================
+#resources :
+1- https://www.learnrazorpages.com/razor-pages/action-results
+
+2- https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.iactionresult?view=aspnetcore-5.0
 
 ==========================================
 4.
