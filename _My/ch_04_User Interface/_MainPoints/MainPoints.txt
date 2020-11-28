@@ -1,0 +1,86 @@
+
+
+========================================
+1.Static Content 
+  - ( Like Layout in MVC or MasterPage in WebForms ): 
+  - What is it ? 
+    Common Parts On Different Pages Like : Header , Footer
+  - Specify a Layout For View
+  - Specify a Layout For Set Of Views
+  - Default Layout
+  - How To Render View In Layout
+  - Nested Layout
+========================================
+
+
+==========================================
+2.Dynamic Content 
+  - Content Pages :
+        - What Is Content Pages Concept ? 
+    		- Like View in MVC Or Page In ASP.NET CORE Razor Page
+    		- General Container For All UI Component Or Element That Related For A Certain Page Or View Only
+                - Not Full Web Page But Contain Only The content that varies from one page to the next.
+        - How To Render View ?
+  - Component Concept
+         - What Is Component Or Partial View ?
+         - How To Render Component
+  - Section Concepts :
+    	- What Is Section ?
+    		- Layout Can Has More Than Section 
+    		- Section Used To Specify Where The Content Will Placed
+   	 - How To Render Section ? 
+==========================================
+
+
+==========================================
+3.ViewEngine 
+==========================================
+
+
+==========================================
+4.
+==========================================
+
+
+==========================================
+5.
+==========================================
+
+
+==========================================
+6.
+==========================================
+
+
+==========================================
+7.
+==========================================
+
+
+==========================================
+8.
+==========================================
+
+
+==========================================
+9.
+==========================================
+
+
+==========================================
+10.
+==========================================
+
+==========================================
+11.
+==========================================
+
+
+==========================================
+12.
+==========================================
+
+
+==========================================
+13.
+==========================================
