@@ -5,10 +5,10 @@
   - ( Like Layout in MVC or MasterPage in WebForms ): 
   - What is it ? 
     Common Parts On Different Pages Like : Header , Footer
-  - Specify a Layout For View
-  - Specify a Layout For Set Of Views
+  - Specify a Layout For View Or Page
+  - Specify a Layout For Set Of Views Or Pages
   - Default Layout
-  - How To Render View In Layout
+  - How To Render View Or Page In Layout
   - Nested Layout
 ========================================
 
@@ -20,10 +20,10 @@
     		- Like View in MVC Or Page In ASP.NET CORE Razor Page
     		- General Container For All UI Component Or Element That Related For A Certain Page Or View Only
                 - Not Full Web Page But Contain Only The content that varies from one page to the next.
-        - How To Render View ?
+        - How To Render Content Page ?           
   - Component Concept
          - What Is Component Or Partial View ?
-         - How To Render Component
+         - How To Render Component Or Partial View
   - Section Concepts :
     	- What Is Section ?
     		- Layout Can Has More Than Section 
@@ -33,12 +33,14 @@
 
 
 ==========================================
-3.ViewEngine 
+3.Server-Side Mark-Up Syntax Or ViewEngine
+  - What Is ViewEngine ?
+  - Learn Syntax
 ==========================================
 
 
 ==========================================
-4.
+4.Passing Data To User Interface
 ==========================================
 
 

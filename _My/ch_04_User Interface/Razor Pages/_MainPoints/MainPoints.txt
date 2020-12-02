@@ -7,15 +7,30 @@
 1- https://docs.microsoft.com/en-us/aspnet/core/mvc/views/layout?view=aspnetcore-5.0
 2- https://www.learnrazorpages.com/razor-pages/files/layout
 3- https://www.tutorialsteacher.com/mvc/layout-view-in-asp.net-mvc
+4- 
+4.1- https://docs.microsoft.com/en-us/aspnet/core/mvc/views/partial?view=aspnetcore-5.0
+4.2- https://www.codingame.com/playgrounds/4981/view-components-in-asp-net-core
+4.3- https://www.programmingwithwolfgang.com/view-components-in-asp-net-core-mvc/
+4.4- https://docs.microsoft.com/en-us/aspnet/core/mvc/views/view-components?view=aspnetcore-5.0
+4.5- https://docs.microsoft.com/en-us/aspnet/core/blazor/components/?view=aspnetcore-5.0
 
 ==========================================
-2.
+2.What Is Razor? 
+  - Learn Razor Syntax 
 ==========================================
+#resources :
+1- https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-5.0
 
-
 ==========================================
-3.
+3.Tag Helpers in ASP.NET Core
+  - Manage Tag Helper scope
+  - Built-in Tag Helpers
+  - Custom Tag Helpers
 ==========================================
+#resources:
+1- https://docs.microsoft.com/en-us/aspnet/core/mvc/views/tag-helpers/intro?view=aspnetcore-5.0
+2- https://codingblast.com/asp-net-core-tag-helpers/
+3- https://www.programmingwithwolfgang.com/understanding-tag-helpers-in-asp-net-core-mvc/
 
 
 ==========================================
