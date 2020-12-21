@@ -1,0 +1,9 @@
+﻿@page "{year:int}/{month:int}/{day:int}"
+@model RazorPagesRoutingSampleProject.Pages.Posts.DetailsModel
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+<p>The publish date is @Model.PublishDate.ToString("yyyy/MM/dd")</p>
+

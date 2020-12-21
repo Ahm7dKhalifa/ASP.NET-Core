@@ -1,0 +1,94 @@
+
+
+========================================
+1.what is routing ?
+========================================
+#resources :
+1- https://divpusher.com/glossary/routing/
+2- https://www.quora.com/Web-Development-What-does-a-route-router-mean-in-express-js
+3- https://specialties.bayt.com/en/specialties/q/143760/what-is-router-in-web-development/
+
+==========================================
+2.- What Is URI vs URL vs URN ?
+  - URI Components :
+==========================================
+#resources :
+1- https://en.wikipedia.org/wiki/Uniform_Resource_Identifier
+2- https://www.guru99.com/url-vs-uri-difference.html
+3- https://www.ionos.com/digitalguide/websites/web-development/uniform-resource-identifier-uri/
+4- https://whatis.techtarget.com/definition/URI-Uniform-Resource-Identifier
+5- https://stackoverflow.com/questions/4913343/what-is-the-difference-between-uri-url-and-urn
+6- https://www.java67.com/2013/01/difference-between-url-uri-and-urn.html
+
+==========================================
+3.- Why URL Structure Organization and Naming is Very Important ?
+  - Best practices For URL Structure Organization and Naming
+==========================================
+#resources :
+1- https://moz.com/learn/seo/url
+2- https://moz.com/blog/15-seo-best-practices-for-structuring-urls
+3- https://www.hostgator.com/blog/best-url-structure-seo/
+4- https://neilpatel.com/blog/complete-guide-structuring-urls/
+
+5- https://restfulapi.net/resource-naming/
+6- https://dev.to/rjcarneiro/5-best-practices-for-naming-api-endpoints-c5c
+7- https://nordicapis.com/10-best-practices-for-naming-api-endpoints/
+8- https://swagger.io/resources/articles/best-practices-in-api-design/
+9- https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9
+10- https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
+11- https://florimond.dev/blog/articles/2018/08/restful-api-design-13-best-practices-to-make-your-users-happy/
+
+==========================================
+4.How Routing Work in The Framework ?
+  - Routing Setup Or Configuration
+  - Default Routing 
+  - Custom Routing 
+  - Routing Order For Multiple Routing Templates
+  - Route Constraints
+==========================================
+#resources :
+1- https://exceptionnotfound.net/how-to-use-routing-in-asp-net-core-3-0-razor-pages/
+2- https://www.mikesdotnetting.com/article/310/routing-in-razor-pages
+
+==========================================
+5.
+==========================================
+
+
+==========================================
+6.
+==========================================
+
+
+==========================================
+7.
+==========================================
+
+
+==========================================
+8.
+==========================================
+
+
+==========================================
+9.
+==========================================
+
+
+==========================================
+10.
+==========================================
+
+==========================================
+11.
+==========================================
+
+
+==========================================
+12.
+==========================================
+
+
+==========================================
+13.
+==========================================
