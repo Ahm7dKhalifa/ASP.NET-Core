@@ -1,0 +1,77 @@
+
+
+========================================
+1.Install And Config ORM
+========================================
+#Resources :
+1- https://www.entityframeworktutorial.net/efcore/install-entity-framework-core.aspx
+
+
+==========================================
+2.- Development Approaches
+	- Database First 
+  	- Code First
+  - Database Providers That ORM Support 
+==========================================
+#Resources :
+1- https://www.entityframeworktutorial.net/efcore/entity-framework-core.aspx
+
+
+==========================================
+3.Querying 
+==========================================
+#resources :
+1- https://www.entityframeworktutorial.net/efcore/querying-in-ef-core.aspx
+2- https://www.entityframeworktutorial.net/querying-entity-graph-in-entity-framework.aspx
+==========================================
+4.Saving Data in Connected Scenario ( Single Entity )
+==========================================
+#Resources :
+1- https://www.entityframeworktutorial.net/efcore/saving-data-in-connected-scenario-in-ef-core.aspx
+
+==========================================
+5.Saving Data in DisConnected Scenario ( Single Entity )
+==========================================
+#Resources :
+1- https://www.entityframeworktutorial.net/efcore/saving-data-in-disconnected-scenario-in-ef-core.aspx
+2- https://www.entityframeworktutorial.net/efcore/update-data-in-entity-framework-core.aspx
+3- https://www.entityframeworktutorial.net/efcore/delete-data-in-entity-framework-core.aspx
+
+==========================================
+6.Saving Data in DisConnected Scenario ( Graph Entity )
+==========================================
+#Resources :
+1- https://www.entityframeworktutorial.net/efcore/working-with-disconnected-entity-graph-ef-core.aspx
+
+==========================================
+7.
+==========================================
+
+
+==========================================
+8.
+==========================================
+
+
+==========================================
+9.
+==========================================
+
+
+==========================================
+10.
+==========================================
+
+==========================================
+11.
+==========================================
+
+
+==========================================
+12.
+==========================================
+
+
+==========================================
+13.
+==========================================
