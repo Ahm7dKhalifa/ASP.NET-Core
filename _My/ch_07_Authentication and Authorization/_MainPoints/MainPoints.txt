@@ -13,6 +13,7 @@
    - based on factors : password-based or Single Factor Authentication , 2nd Factor Authentication , Multi-Factor Authentication
    - based on schema : http ( basic - bearer ) - api keys
    - normal bearer token vs jwt 
+   - what token contain ? 
 ==========================================
 #resources :
 1- https://www.idrnd.ai/5-authentication-methods-that-can-prevent-the-next-breach/
@@ -30,7 +31,8 @@
 13- https://stackoverflow.com/questions/39909419/what-are-the-main-differences-between-jwt-and-oauth-authentication
 14- https://stackoverflow.com/questions/26216489/json-web-token-jwt-benefits-over-a-database-session-token
 15- https://developer.okta.com/blog/2017/08/17/why-jwts-suck-as-session-tokens
-
+16- https://dotnettutorials.net/lesson/token-based-authentication-web-api/
+17- https://bitoftech.net/2014/06/01/token-based-authentication-asp-net-web-api-2-owin-asp-net-identity/
 ==========================================
 3.Token Based Authentication in Asp.net Web API Samples
 ==========================================
