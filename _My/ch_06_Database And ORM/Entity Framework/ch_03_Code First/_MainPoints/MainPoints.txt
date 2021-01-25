@@ -1,0 +1,99 @@
+
+
+========================================
+1.Creating the Model
+  - create entity classes and context classes first
+  - Adding The Migration
+  - update-database
+========================================
+#resources :
+1- https://www.entityframeworktutorial.net/efcore/entity-framework-core-console-application.aspx
+
+==========================================
+2.Conventions ( default rules or configurations ) in Entity Framework Core
+  - Schema : dbo
+  - Table : 
+       - default table name
+       - create tables for entities which are not included as DbSet
+         but are reachable through reference properties
+  - Column :
+       - default columns names
+       - mapping between C# data type to SQL Server column data type.
+       - Nullable Columns
+       - NotNull Columns
+  - Primary Key
+       - Id or <Entity Class Name>Id
+  - Foreign Key
+       - <Reference Navigation Property Name>Id
+  - Index 
+==========================================
+#resources :
+1- https://www.entityframeworktutorial.net/efcore/conventions-in-ef-core.aspx
+2- https://www.entityframeworktutorial.net/efcore/one-to-many-conventions-entity-framework-core.aspx
+3- https://www.entityframeworktutorial.net/efcore/one-to-one-conventions-entity-framework-core.aspx
+
+==========================================
+3.Configurations in Entity Framework Core
+  - By using Data Annotation Attributes
+  - By using Fluent API
+==========================================
+#resources :
+1- https://www.entityframeworktutorial.net/efcore/configuration-in-entity-framework-core.aspx
+
+==========================================
+4.Fluent API
+  - Fluent API Levels : Model , Entity , Property
+  - table lists important methods for each type of configuration.
+  - Configure One-to-Many Relationships 
+  - Configure One-to-One Relationships
+  - Configure Many-to-Many Relationships
+==========================================
+#resources :
+1- https://www.entityframeworktutorial.net/efcore/fluent-api-in-entity-framework-core.aspx
+2- https://www.entityframeworktutorial.net/efcore/configure-one-to-many-relationship-using-fluent-api-in-ef-core.aspx
+3- https://www.entityframeworktutorial.net/efcore/configure-one-to-one-relationship-using-fluent-api-in-ef-core.aspx
+4- https://www.entityframeworktutorial.net/efcore/configure-many-to-many-relationship-in-ef-core.aspx
+
+==========================================
+5.Data Annotation Attributes
+==========================================
+#resources :
+1- https://www.entityframeworktutorial.net/code-first/dataannotation-in-code-first.aspx
+
+==========================================
+6.
+==========================================
+
+
+==========================================
+7.
+==========================================
+
+
+==========================================
+8.
+==========================================
+
+
+==========================================
+9.
+==========================================
+
+
+==========================================
+10.
+==========================================
+
+==========================================
+11.
+==========================================
+
+
+==========================================
+12.
+==========================================
+
+
+==========================================
+13.
+==========================================

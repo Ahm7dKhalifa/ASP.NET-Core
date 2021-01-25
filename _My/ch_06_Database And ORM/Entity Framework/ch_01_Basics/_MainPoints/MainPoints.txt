@@ -16,21 +16,30 @@
 #Resources :
 1- https://www.entityframeworktutorial.net/efcore/entity-framework-core.aspx
 
+=============================================
+3.DbContext
+  - What Is It ? Used For ?
+  - Explain its Method and Properties 
+  - Dbcontext Configuration
+=============================================
+#Resources :
+1- https://www.entityframeworktutorial.net/efcore/entity-framework-core-dbcontext.aspx
+2- https://docs.microsoft.com/en-us/ef/core/dbcontext-configuration/
 
 ==========================================
-3.Querying 
+4.Querying 
 ==========================================
 #resources :
 1- https://www.entityframeworktutorial.net/efcore/querying-in-ef-core.aspx
 2- https://www.entityframeworktutorial.net/querying-entity-graph-in-entity-framework.aspx
 ==========================================
-4.Saving Data in Connected Scenario ( Single Entity )
+5.Saving Data in Connected Scenario ( Single Entity )
 ==========================================
 #Resources :
 1- https://www.entityframeworktutorial.net/efcore/saving-data-in-connected-scenario-in-ef-core.aspx
 
 ==========================================
-5.Saving Data in DisConnected Scenario ( Single Entity )
+6.Saving Data in DisConnected Scenario ( Single Entity )
 ==========================================
 #Resources :
 1- https://www.entityframeworktutorial.net/efcore/saving-data-in-disconnected-scenario-in-ef-core.aspx
@@ -38,7 +47,7 @@
 3- https://www.entityframeworktutorial.net/efcore/delete-data-in-entity-framework-core.aspx
 
 ==========================================
-6.Saving Data in DisConnected Scenario ( Graph Entity )
+7.Saving Data in DisConnected Scenario ( Graph Entity )
 ==========================================
 #Resources :
 1- https://www.entityframeworktutorial.net/efcore/working-with-disconnected-entity-graph-ef-core.aspx
