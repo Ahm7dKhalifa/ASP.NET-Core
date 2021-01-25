@@ -1,0 +1,62 @@
+
+==========================================
+1.What are RESTful ?
+- Restful Constraints
+==========================================
+#resources :
+1- http://csharp-video-tutorials.blogspot.com/2016/08/what-is-aspnet-web-api.html
+2- https://en.wikipedia.org/wiki/Representational_state_transfer
+3- https://www.guru99.com/restful-web-services.html
+4- https://stackoverflow.com/questions/2190836/what-is-the-difference-between-http-and-rest
+5- https://medium.com/extend/what-is-rest-a-simple-explanation-for-beginners-part-2-rest-constraints-129a4b69a582
+
+==========================================
+2.What are Resources In Rest ?
+- guideness for resources naming  
+==========================================
+#resources :
+1- https://www.tutorialspoint.com/restful/restful_resources.htm
+2- https://stackoverflow.com/questions/10799198/what-are-rest-resources
+3- https://restful-api-design.readthedocs.io/en/latest/resources.html
+4- https://www.thoughtworks.com/insights/blog/rest-api-design-resource-modeling
+5- https://www.w3schools.in/restful-web-services/rest-resources/
+
+==========================================
+3.
+==========================================
+
+
+==========================================
+4.
+==========================================
+
+
+==========================================
+5.
+==========================================
+
+
+==========================================
+6.
+==========================================
+
+
+==========================================
+7.
+==========================================
+
+
+==========================================
+8.
+==========================================
+
+==========================================
+9.
+==========================================
+
+
+==========================================
+10.
+==========================================
+
+
