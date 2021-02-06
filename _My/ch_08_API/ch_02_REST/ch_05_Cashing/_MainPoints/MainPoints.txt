@@ -1,0 +1,82 @@
+
+
+========================================
+1.what is cashe ?
+  - types of cashing ?
+  - models of cashing ?
+  - Conditions for caching
+========================================
+#resources :
+0- Course --> pluralsight --> Implementing Advanced RESTful Concerns with ASP.NET Core 3
+1- https://tools.ietf.org/html/rfc7234
+2- https://docs.microsoft.com/en-us/aspnet/core/performance/caching/memory?view=aspnetcore-2.2
+3- https://docs.microsoft.com/en-us/aspnet/core/performance/caching/response?view=aspnetcore-2.2
+
+==========================================
+2.Expiration Model In ASP.NET Core
+  - Explain How It Work 
+  - Configuration Of Expiration Model In Start-Up Class
+  - [ResponseCache] attribute  
+==========================================
+#resources :
+0- Course --> pluralsight --> Implementing Advanced RESTful Concerns with ASP.NET Core 3
+1- https://docs.microsoft.com/en-us/aspnet/core/performance/caching/middleware?view=aspnetcore-2.2
+
+==========================================
+3.Validation Model In ASP.NET Core
+  - Explain How It Work 
+  - Implementing ETag for Response Caching 
+==========================================
+#resources :
+0- Course --> pluralsight --> Implementing Advanced RESTful Concerns with ASP.NET Core 3
+1- https://stackoverflow.com/questions/35458737/implement-http-cache-etag-in-asp-net-core-web-api
+2- https://referbruv.com/blog/posts/implementing-a-simple-etag-for-response-caching-efficiency-in-an-aspnet-core-api
+3- https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-client-caching/
+
+==========================================
+4.
+==========================================
+
+
+==========================================
+5.
+==========================================
+
+
+==========================================
+6.
+==========================================
+
+
+==========================================
+7.
+==========================================
+
+
+==========================================
+8.
+==========================================
+
+
+==========================================
+9.
+==========================================
+
+
+==========================================
+10.
+==========================================
+
+==========================================
+11.
+==========================================
+
+
+==========================================
+12.
+==========================================
+
+
+==========================================
+13.
+==========================================
