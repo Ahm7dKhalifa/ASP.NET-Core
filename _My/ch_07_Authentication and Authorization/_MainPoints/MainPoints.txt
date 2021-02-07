@@ -8,12 +8,23 @@
 2- https://auth0.com/docs/flows#implicit-flow-with-form-post
 3- https://www.bu.edu/tech/about/security-resources/bestpractice/auth/
 4- https://www.okta.com/identity-101/authentication-vs-authorization/
+
 ==========================================
 2. authentication methods :
-   - based on factors : password-based or Single Factor Authentication , 2nd Factor Authentication , Multi-Factor Authentication
+   - based on factors : 
+            - password-based or Single Factor Authentication 
+            - 2nd Factor Authentication 
+            - Multi-Factor Authentication
    - based on schema : http ( basic - bearer ) - api keys
-   - normal bearer token vs jwt 
-   - what token contain ? 
+   - based on types : 
+            - cookies 
+            - sessions
+            - token
+   		- normal bearer token vs jwt 
+ 	        - what token contain ? 
+   - based on host :
+            - local Authentication 
+            - external or social or third party Authentication
 ==========================================
 #resources :
 1- https://www.idrnd.ai/5-authentication-methods-that-can-prevent-the-next-breach/
@@ -33,6 +44,8 @@
 15- https://developer.okta.com/blog/2017/08/17/why-jwts-suck-as-session-tokens
 16- https://dotnettutorials.net/lesson/token-based-authentication-web-api/
 17- https://bitoftech.net/2014/06/01/token-based-authentication-asp-net-web-api-2-owin-asp-net-identity/
+18- https://medium.com/@vivekmadurai/different-ways-to-authenticate-a-web-application-e8f3875c254a
+
 ==========================================
 3.Token Based Authentication in Asp.net Web API Samples
 ==========================================
@@ -41,6 +54,7 @@
 2- https://dotnettutorials.net/lesson/token-based-authentication-web-api/
 3- https://www.c-sharpcorner.com/article/web-ap/
 4- https://developer.okta.com/blog/2018/02/01/secure-aspnetcore-webapi-token-auth
+
 ==========================================
 4.
 ==========================================
