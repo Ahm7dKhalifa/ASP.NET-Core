@@ -56,9 +56,30 @@
 4- https://developer.okta.com/blog/2018/02/01/secure-aspnetcore-webapi-token-auth
 
 ==========================================
-4.
+4.OAuth2
+ - What is OAuth2 ?
+ - Roles 
+ - Grant types 
+    - Flow Or Steps For Every Type 
+ - Endpoints
+ - Token Types
+ - oauth vs oauth 2.0
 ==========================================
-
+#resources :
+1- digitalocean.com/community/tutorials/an-introduction-to-oauth-2#refresh-token-flow
+2.
+2.1 https://auth0.com/docs/protocols/protocol-oauth2
+2.2 https://auth0.com/docs/flows/authorization-code-flow
+2.3 https://auth0.com/docs/flows/implicit-flow-with-form-post
+2.4 https://auth0.com/docs/flows/resource-owner-password-flow
+2.5 https://auth0.com/docs/flows/client-credentials-flow
+2.6 https://auth0.com/docs/authorization/which-oauth-2-0-flow-should-i-use
+2.7 https://auth0.com/learn/refresh-tokens/
+2.8 https://auth0.com/blog/refresh-tokens-what-are-they-and-when-to-use-them/
+3.https://en.wikipedia.org/wiki/OAuth
+4.https://spanning.com/blog/oauth-2-what-is-it-how-does-it-work/
+5.https://stackoverflow.com/questions/4113934/how-is-oauth-2-different-from-oauth-1
+6.https://www.loginradius.com/blog/async/what-is-the-difference-between-oauth1-and-oauth2/
 
 ==========================================
 5.
