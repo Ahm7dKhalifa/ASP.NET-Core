@@ -10,7 +10,7 @@
 4- https://www.okta.com/identity-101/authentication-vs-authorization/
 
 ==========================================
-2. authentication methods :
+2.what are authentication methods on web or internet :
    - based on factors : 
             - password-based or Single Factor Authentication 
             - 2nd Factor Authentication 
@@ -58,11 +58,12 @@
 ==========================================
 4.OAuth2
  - What is OAuth2 ?
- - Roles 
- - Grant types 
+ - List And Define Roles In OAuth2  
+ - What Are Types Of Grant types 
     - Flow Or Steps For Every Type 
- - Endpoints
- - Token Types
+ - What Are Types Of Endpoints ?
+ - What Are Types Of Token ?
+ - What Is Mean By Scopes And Consent ? 
  - oauth vs oauth 2.0
 ==========================================
 #resources :
@@ -82,10 +83,26 @@
 6.https://www.loginradius.com/blog/async/what-is-the-difference-between-oauth1-and-oauth2/
 
 ==========================================
-5.
+5.OpenID 
+- What is OpenID Connect ?
+- What Are Types Of OIDC Flows ?
+- What Are Types Of Tokens 
+   - Id Token 
+   - Access Token
+   - Refresh Token
+- What Are OpenID Connect Endpoints ?
 ==========================================
+1-
+1.1 https://auth0.com/docs/protocols/openid-connect-protocol
+1.2 https://auth0.com/intro-to-iam/what-is-openid-connect-oidc/
 
+2- https://en.wikipedia.org/wiki/OpenID
 
+3-
+3.1 https://speakerdeck.com/nbarbettini/oauth-and-openid-connect-in-plain-english?slide=43
+3.2 https://www.youtube.com/watch?v=996OiexHze0
+
+4. https://chsakell.com/2019/03/11/asp-net-core-identity-series-oauth-2-0-openid-connect-identityserver/
 ==========================================
 6.
 ==========================================
