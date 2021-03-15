@@ -131,11 +131,34 @@
 8- https://www.quora.com/Why-are-there-no-cookies-for-the-mobile-web-or-apps
 9- https://stackoverflow.com/questions/5700746/where-do-browsers-store-cookies
 10- https://stackoverflow.com/questions/10700863/where-are-the-cookies-stored
-==========================================
-7.
-==========================================
 
-
+==========================================
+7.Sessions
+- What is a "Session"?
+- How Sessions Work ?
+- What Are Advantages and Disadvantages Of Sessions ?
+- Sessions Vs Cookies
+- where were sessions stored ? in memory , database or Files ?
+  or explain Session storages.
+==========================================
+#resources :
+1- https://en.wikipedia.org/wiki/Session_(computer_science)
+2- http://www.lassosoft.com/Tutorial-Understanding-Cookies-and-Sessions
+3- https://redisson.org/glossary/web-session.html
+4- https://docs.microsoft.com/en-us/previous-versions/ms178581(v=vs.140)?redirectedfrom=MSDN
+5- https://www.infoworld.com/article/3027516/how-to-work-with-sessions-in-aspnet.html
+6- https://techcommunity.microsoft.com/t5/sql-server/asp-net-session-state-with-sql-server-in-memory-oltp/ba-p/385753
+7- https://andrewlock.net/an-introduction-to-session-storage-in-asp-net-core/
+8- https://blog.couchbase.com/session-storage-aspnet-new-tutorial/
+9- https://dzone.com/articles/aspnet-core-session-storage-strategies
+10- https://www.c-sharpcorner.com/UploadFile/484ad3/session-state-in-Asp-Net/
+11- https://forums.asp.net/t/1944208.aspx?store+session+in+database
+12- https://www.aegissofttech.com/articles/which-asp.net-core-session-storage-strategies-developers.html
+13- https://docs.microsoft.com/en-us/aspnet/core/fundamentals/app-state?view=aspnetcore-5.0
+14- https://docs.microsoft.com/en-us/aspnet/core/performance/caching/memory?view=aspnetcore-5.0
+15- https://docs.microsoft.com/en-us/aspnet/core/performance/caching/distributed?view=aspnetcore-5.0
+16- https://forums.asp.net/t/2161594.aspx?What+s+the+difference+between+Distributed+Memory+Cache+Distributed+SQL+Server+Cache+Distributed+Redis+Cache+
+17- https://medium.com/net-core/in-memory-distributed-redis-caching-in-asp-net-core-62fb33925818
 ==========================================
 8.
 ==========================================
