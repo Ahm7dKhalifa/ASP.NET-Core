@@ -1,10 +1,15 @@
 
 
 ========================================
-1.Architecture
+1.Architecture 
+--> what are the two main types of Architectures to build web apps ? 
   1.1 Framework Architecture
   - Folders Or Files Of Framework
+      --> what are the main Folders Or Files Of Asp.net Core Razor Pages ?
+      --> explain general overview about what every folder can contain or every file can used for ?
   - Components Or SubSystems Of Framework
+      --> what are the main Components Or Subsystems in the framework Architecture
+      --> explain general overview about what every Components Or Subsystems can used for ?
   1.2 Application Architecture
   - N Tier Architecture
   - Clean Architecture
@@ -13,11 +18,17 @@
 
 ==========================================
 2.Life Cycles :
-  - Application Life Cycle
-     - Event That Happen When Application Receive Request For First Time Or Start Run 
-     - Event That Happen When App Will Shut Down
-  - Request Life Cycle ( Middleware Or Http Pipeline )
-     - Events That Happen Every Time The App Receive Request
+  - what are the two main types of Life Cycles on web apps ? 
+  	- Application Life Cycle
+     		- Event That Happen When Application Receive Request For First Time Or Start Run 
+     		- Event That Happen When App Will Shut Down
+        - Request Life Cycle ( Middleware Or Http Pipeline )
+     		- Events That Happen Every Time The App Receive Request
+ - Define Middleware ?
+ - What Is Default Order Of Middleware Components ? and where custom middlewares can added ?
+ - how to reorder middleware Components ?
+ - how to add new custom middlewares ?
+ - list built-in middlewares ? and what is the using of every one of them ?
 ==========================================
 
 

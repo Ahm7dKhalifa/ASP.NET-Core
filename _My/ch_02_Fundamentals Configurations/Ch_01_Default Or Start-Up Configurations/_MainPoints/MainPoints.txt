@@ -3,14 +3,14 @@
 ==========================================
 1.The Startup class
 - The Startup class used for ?
-- ConfigureServices method used for :
-- Configure method used for :
+- ConfigureServices method used for ?
+- Configure method used for ?
 - The Startup class is specified when ?
-- what are the service types can be injected into the Startup constructor :
+- what are the service types can be injected into the Startup constructor ?
 - Multiple Startup
    - When the app defines separate Startup classes for different environments 
-     , the appropriate Startup class is selected at runtime depend on ?
-- Configure services without Startup
+     so the appropriate Startup class is selected at runtime depend on ?
+- explain how to Configure services without Startup
 - Extend Startup with startup filters
 ==========================================
 #resources :

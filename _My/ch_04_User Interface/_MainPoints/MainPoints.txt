@@ -5,11 +5,11 @@
   - ( Like Layout in MVC or MasterPage in WebForms ): 
   - What is it ? 
     Common Parts On Different Pages Like : Header , Footer
-  - Specify a Layout For View Or Page
-  - Specify a Layout For Set Of Views Or Pages
-  - Default Layout
+  - how to Specify a Layout For View Or Page
+  - how to Specify a Layout For group Of Views Or Pages
+  - how to Specify the Default Layout
   - How To Render View Or Page In Layout
-  - Nested Layout
+  - explain Nested Layout
 ========================================
 
 
@@ -23,12 +23,12 @@
         - How To Render Content Page ?           
   - Component Concept
          - What Is Component Or Partial View ?
-         - How To Render Component Or Partial View
+         - How To Create Or Define Or Render Or Use a Component Or Partial View ?
   - Section Concepts :
     	- What Is Section ?
     		- Layout Can Has More Than Section 
     		- Section Used To Specify Where The Content Will Placed
-   	 - How To Render Section ? 
+   	 - How To Create Or Define Or Render Or Use Section ? 
 ==========================================
 
 
@@ -40,7 +40,8 @@
 
 
 ==========================================
-4.Passing Data To User Interface
+4.explain how to Pass Data To UI Side From Server-Side 
+  ** Like From Controllers To View In mvc
 ==========================================
 
 

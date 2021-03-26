@@ -2,12 +2,7 @@
 
 ========================================
 1.Request
-  - Files Or Classes That Receive And Process Request
-      - inheritance from ?
-      - attributes or properties of this class
-      - methods 
-      - if you can create your custom classes
-  - Send Data From Browser Or Client To Server :
+  - explain how to Send Data From Browser Or Client To Server :
         - By Query Parameters
         - By Html Form
                  - HTML Form , What Is It ?
@@ -15,7 +10,7 @@
                  - HTML Form Elements
                  - How does http file upload work ?
         - Inside Request Body In General
-  - Receive Data From Client In The Server ; 
+  - explain how to Receive Data From Client In The Server ; 
         - By Global Objects Like : Request.Form , ...
         - By Model Binding 
              - Model Binding Types : 
@@ -28,7 +23,12 @@
              - Model Binding With Http Methods :
                   - Get Vs Post
              - Model Validation
-  - Access Request 
+  - what are the Files Or Classes That Receive And Process Request on the server ?
+      - explain general details for this classes like :
+      	- inheritance from ?
+      	- attributes or properties of this class
+      	- methods
+  - explain how to Access Request in the server : 
         - Access Request Headers
         - Access Request Body
 ========================================
@@ -36,9 +36,8 @@
 
 ==========================================
 2.Response
-  - Response Types
-  - Write Response Header And Body
-  - Files Or Classes That Process Response 
+  - what are Response Types can be return from server to client app ?
+  - explain how to Write Response Header And Body by your framework 
 ==========================================
 
 

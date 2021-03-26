@@ -2,11 +2,11 @@
 
 ==========================================
 1.Middleware 
-- what is Middleware ?
-- http Request Processing Life Cycles in ASP.NET Core and Middleware order
-- Middleware configured using Run, Map, and Use extension methods.
-- Request delegate
-- short-circuiting the request pipeline
+ - Define Middleware ?
+ - What Is Default Order Of Middleware Components ? and where custom middlewares can added ?
+ - how to reorder middleware Components ?
+ - how to add new custom middlewares ?
+ - list built-in middlewares ? and what is the using of every one of them ?
 ==========================================
 #resources :
 1- https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-3.1

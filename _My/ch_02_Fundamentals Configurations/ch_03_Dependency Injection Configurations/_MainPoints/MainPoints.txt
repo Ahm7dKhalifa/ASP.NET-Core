@@ -2,12 +2,13 @@
 
 ==========================================
 1.dependency injection
-1- what is dependency injection ?
-2- problems of dependency ?
-3- how to solve this problems ?
-4- example 
-5- types of lifetimes
-6- Register groups of services with extension methods
+ - what is dependency ?
+ - what is dependency injection ?
+ - what are problems of dependency ?
+ - how to solve this problems ?
+ - example 
+ - what are types of service lifetimes ?
+ - explain how to Register groups of services with extension methods ?
 ==========================================
 #resources :
 1- https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-3.1

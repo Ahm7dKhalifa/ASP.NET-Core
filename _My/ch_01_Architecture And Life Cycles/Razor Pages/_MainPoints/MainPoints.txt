@@ -19,13 +19,15 @@ C1 --> Razor Pages in ASP.NET Core: Getting Started --> Course On pluralsight.co
 2- https://www.twilio.com/blog/introduction-asp-net-core-razor-pages
 
 ==========================================
-3.Folders Or Files Of Asp.net Core Razor Pages 
+3.what are the main Folders Or Files Of Asp.net Core Razor Pages ?
+  --> explain general overview about what every folder can contain or every file can used for ?
 ==========================================
 #resources :
 1- https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-3.1&tabs=visual-studio
 
 ==========================================
-4.Components Or Subsystems in Asp.net Core Architecture
+4.what are the main Components Or Subsystems in Asp.net Core Architecture
+ --> explain general overview about what every Components Or Subsystems can used for ?
 ==========================================
 #resources :
 1-https://speakerdeck.com/davidfowl/asp-dot-net-core-architecture-overview
@@ -39,7 +41,11 @@ https://dotnet.microsoft.com/learn/aspnet/architecture
 
 ==========================================
 6.Application And Request Life Cycle In Asp.net Core
- - ASP.NET Core Middleware Or Http Pipeline
+ - Define Middleware ?
+ - What Is Default Order Of Middleware Components ? and where custom middlewares can added ?
+ - how to reorder middleware Components ?
+ - how to add new custom middlewares ?
+ - list built-in middlewares ? and what is the using of every one of them ?
 ==========================================
 #resources :
 1- https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-3.1
