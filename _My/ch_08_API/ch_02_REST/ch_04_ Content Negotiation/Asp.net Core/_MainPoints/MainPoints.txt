@@ -1,33 +1,33 @@
 
 
 ========================================
-1.What Is Routing In Web Development ?
-  - What Is URI vs URL vs URN ?
-  - What Are URI Components ? Or URI  Consists Of ...
-  - Why URL Structure Organization and Naming is Very Important ?
-  - Explain Best practices For URL Structure Organization and Naming
+1.formatters :
+  - input formatter used for ...
+  - output formatter used for ....
+  - The framework provides built-in input and output formatters for ...
+  - how to Add XML format support ?
+  - how to Specify a format Using [Produces] filter ? 
+  - how to Specify Response format by URL mappings ( using The [FormatFilter] ) ?
+  - how to Add Custom Formatter ?
 ========================================
-
+#resources :
+1- https://docs.microsoft.com/en-us/aspnet/core/web-api/advanced/custom-formatters?view=aspnetcore-5.0
 
 ==========================================
-2.How Routing Work in The Framework ?
-  - Explain Where And How Routing Can Be Configured ?
-  - What Is The Default Routing For Your Framework ?
-       - How And Where Configure Routing To Default Or Home Page Of the App ( Home - Index )
-       - What Is The Default Routing Template For The Framework ? Like {{Controller/Action}} In Mvc
-  - How To Create Or Define Or Use Custom Routing ?
-       - By Attributes
-       - By Templates
-  - Explain Routing Order For Multiple Routing Templates
-       - When There Are More Than One Routing Template Can match The URL 
-       ,, How The Framework Choose The Best one Of them ? 
-  - How To Use Route Constraints To Valid Data or The Query Paramters On The Url ?
+2.Format-specific Action Results vs Non Format-specific Action Results
+  - what are The default format or returned type that used by ASP.NET Core ?
+  - what are the type or format of the response 
+    when client send an Accept header appears in the request ?
+  - what are the type or format of the response 
+    If client does not send Accept header appears in the request ?
 ==========================================
-
+#resources :
+1- https://docs.microsoft.com/en-us/aspnet/core/web-api/advanced/formatting?view=aspnetcore-5.0
 
 ==========================================
 3.
 ==========================================
+#resources :
 
 
 ==========================================

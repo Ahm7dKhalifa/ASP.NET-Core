@@ -1,7 +1,7 @@
 
 
 ========================================
-1.what is Authentication vs. Authorization ?
+1.Authentication vs. Authorization ?
 ========================================
 #resources :
 1- https://www.geeksforgeeks.org/difference-between-authentication-and-authorization/

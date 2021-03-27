@@ -2,7 +2,8 @@
 
 ========================================
 1.what is Content negotiation
- - types of content negotiation
+ - what are types of content negotiation ?
+ - explain in more details how every type work and implemented ?
 ========================================
 #resources :
 1- https://developer.mozilla.org/en-US/docs/Web/HTTP/Content_negotiation
@@ -15,8 +16,8 @@
 ==========================================
 2.Server-driven content negotiation
   - how it work ?
-  - response status when client send Unsupported Media Type
-  - standard headers that start server-driven negotiation  
+  - what is the response status when client send Unsupported Media Type
+  - what are the standard headers that start server-driven negotiation  ?
 ==========================================
 #resources :
 #q/a --> 1
@@ -29,34 +30,23 @@
 #q/a --> 1
 
 ==========================================
-4.Format-specific Action Results vs Non Format-specific Action Results
-  - The default format used by ASP.NET Core 
-  - when an Accept header appears in the request :
-  - If no Accept header appears in the request:
+4.Browsers and content negotiation
+  - when and how the framework detects that the request is coming from a browser ?
+  - how to change default config of content negotiation for browser ?
 ==========================================
 #resources :
-1- https://docs.microsoft.com/en-us/aspnet/core/web-api/advanced/formatting?view=aspnetcore-5.0
+#q/a --> 1
 
 ==========================================
-5.Browsers and content negotiation
-  - when the framework detects that the request is coming from a browser ?
-  - change default config of content negotiation for browser
+5.
 ==========================================
 #resources :
-#q/a --> 4
+
 
 ==========================================
-6.formatters :
-  - input formatter used for :
-  - output formatter used for :
-  - The framework provides built-in input and output formatters for
-  - Add XML format support
-  - Specify a format Using [Produces] filter:
-  - Response format by URL mappings ( using The [FormatFilter] )
-  - Add Custom Formatter 
+6.
 ==========================================
-#resources :
-1- https://docs.microsoft.com/en-us/aspnet/core/web-api/advanced/custom-formatters?view=aspnetcore-5.0
+
 
 ==========================================
 7.

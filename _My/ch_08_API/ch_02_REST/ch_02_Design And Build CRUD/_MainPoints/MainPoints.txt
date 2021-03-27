@@ -1,21 +1,21 @@
 
 ==========================================
-1.Design And Build Crud In REST
+1.Explain Best And Different Strategies Or Methods
+  To Design And Build Crud Operations In REST
 ==========================================
 #resources :
 Recommended Courses Explain How To Design And Build Crud In REST :
 1- Building a RESTful API with ASP.NET Core 3 - pluralsight
 
 ==========================================
-2.Others Main Concepts :
-  1- Outer Face Model Vs Entity Model
-  2- AutoMapper
-  3- Working With Parent / Child Relationships
-  4- Working With Collections
+2.Explain Best And Different Strategies Or Methods
+  To Design And Build Crud Operations In REST
 ==========================================
 
 ==========================================
-3.
+3.Others Main Concepts :
+  1- Outer Face Model Vs Entity Model
+  2- Using AutoMapper Framework
 ==========================================
 
 

@@ -1,7 +1,7 @@
 
 ==========================================
 1.What are RESTful ?
-- Restful Constraints
+- List And Define Restful Constraints Or Principles
 ==========================================
 #resources :
 1- http://csharp-video-tutorials.blogspot.com/2016/08/what-is-aspnet-web-api.html
@@ -11,8 +11,8 @@
 5- https://medium.com/extend/what-is-rest-a-simple-explanation-for-beginners-part-2-rest-constraints-129a4b69a582
 
 ==========================================
-2.What are Resources In Rest ?
-- guideness for resources naming  
+2.What are Mean By Resources In Rest ?
+- guideness Or Explain Best Practices for resources naming  
 ==========================================
 #resources :
 1- https://www.tutorialspoint.com/restful/restful_resources.htm

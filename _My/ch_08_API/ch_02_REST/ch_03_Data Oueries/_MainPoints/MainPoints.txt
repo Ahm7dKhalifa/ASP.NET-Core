@@ -6,6 +6,8 @@
   3- Filtering
   4- Sorting
   5- Data Shaping
+--> Explain Best And Different Strategies Or Methods 
+    To Design Or Implement This Concepts ?
 ==========================================
 #resources :
 Recommended Courses That Explain Data Queries In Api :

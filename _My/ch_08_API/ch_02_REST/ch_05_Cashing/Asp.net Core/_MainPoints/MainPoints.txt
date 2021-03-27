@@ -1,23 +1,31 @@
 
-==========================================
-1.what is api ?
- - what are the different types of api ?
-==========================================
-#resources 
-1-https://ffeathers.wordpress.com/2014/02/16/api-types/
-
-========================================
-2.what is web api ? 
-========================================
-#resources 
-1- https://docs.microsoft.com/en-us/aspnet/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api
-2- https://www.tutorialspoint.com/asp.net_mvc/asp.net_mvc_web_api.htm
-3- http://csharp-video-tutorials.blogspot.com/2016/08/what-is-aspnet-web-api.html
-
 
 ==========================================
+1.Expiration Model In ASP.NET Core
+  - Explain How It Work 
+  - How To Configure Expiration Model In Start-Up Class
+  - [ResponseCache] attribute used for ...
+==========================================
+#resources :
+0- Course --> pluralsight --> Implementing Advanced RESTful Concerns with ASP.NET Core 3
+1- https://docs.microsoft.com/en-us/aspnet/core/performance/caching/middleware?view=aspnetcore-2.2
 
 ==========================================
+2.Validation Model In ASP.NET Core
+  - Explain How It Work ?
+  - How To Implement ETag for Response Caching ?
+==========================================
+#resources :
+0- Course --> pluralsight --> Implementing Advanced RESTful Concerns with ASP.NET Core 3
+1- https://stackoverflow.com/questions/35458737/implement-http-cache-etag-in-asp-net-core-web-api
+2- https://referbruv.com/blog/posts/implementing-a-simple-etag-for-response-caching-efficiency-in-an-aspnet-core-api
+3- https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-client-caching/
+
+==========================================
+3.
+==========================================
+#resources :
+
 
 ==========================================
 4.
@@ -54,15 +62,15 @@
 ==========================================
 
 ==========================================
-2.
+11.
 ==========================================
 
 
 ==========================================
-2.
+12.
 ==========================================
 
 
 ==========================================
-2.
+13.
 ==========================================
