@@ -2,7 +2,7 @@
 
 ========================================
 1.Request
-  - explain how to Send Data From Browser Or Client To Server :
+  - explain how to Send Data From Browser Or Client To Server ?
         - By Query Parameters
         - By Html Form
                  - HTML Form , What Is It ?
@@ -10,7 +10,7 @@
                  - HTML Form Elements
                  - How does http file upload work ?
         - Inside Request Body In General
-  - explain how to Receive Data From Client In The Server ; 
+  - explain how to Receive Data From Client In The Server ?
         - By Global Objects Like : Request.Form , ...
         - By Model Binding 
              - Model Binding Types : 

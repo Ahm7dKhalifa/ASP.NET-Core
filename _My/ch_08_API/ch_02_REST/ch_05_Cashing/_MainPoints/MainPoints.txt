@@ -3,7 +3,8 @@
 ========================================
 1.what is cashe ?
   - what are the types of cashing ? explain every type in more details ?
-  - what are the model types of cashing ? explain how every type can be implmented in more details ?
+  - what are the model types of cashing ? 
+    explain how every type work and implmented in more details ?
   - what are the Conditions for caching ?
 ========================================
 #resources :

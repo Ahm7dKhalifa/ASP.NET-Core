@@ -2,25 +2,26 @@
 
 ========================================
 1.
-- Install And Config ORM
-- Development Approaches
+- How To Install And Config ORM
+- What is The Development Approaches ?
 	- Database First 
   	- Code First
-- Database Providers That ORM Support 
-- Structure , Folder And Files , Classes : Database Context Or Session , Entities Or Tables
+- What Are Database Providers That ORM Support ?
+- Explain With More Details : The ORM Framework Structure Like  
+  Folder And Files , Classes : Database Context Or Session , Entities Or Tables
 ========================================
 
 
 ==========================================
 2.Querying :
-  - Type of Loading :
+  - What Are Type of Loading Data ?
   	- Eager Loading
         - Lazy Loading
-  - Basic Queries :
-        - get a single object by : 
+  - Explain ORM Syntax Of Basic Queries :
+        - how to get a single object by : 
             - id 
             - Condition  
-        - returns collection of objects : 
+        - how to return collection of objects : 
             - OrderBy
             - GroupBy
 ==========================================
@@ -28,17 +29,19 @@
 
 ==========================================
 3.Saving Data :
-  - Saving Data Scenario :
+  - What Are two Saving Data Scenario ?
       - Connected
       - Disconnected
-  - Types Of Entity To Save :
+  - What Are The Types Of Entity That Can Be Saved ? 
       - Single Entity
       - Graph Entity
-  - Types Of Command To Save Data 
+  - Explain ORM Syntax Or Command To Save Data :
       - Insert
       - Update 
       - Delete  
-  - Working With Single Entity Vs Graph Entity With Different Scenario And Command   
+  - Working With Single Entity Vs Working With Graph Entity 
+      --> With Different Scenario 
+      --> With Different Command   
 ==========================================
 
 

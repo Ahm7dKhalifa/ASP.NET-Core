@@ -17,7 +17,7 @@
 2.Server-driven content negotiation
   - how it work ?
   - what is the response status when client send Unsupported Media Type
-  - what are the standard headers that start server-driven negotiation  ?
+  - what are the standard headers that server-driven negotiation can use  ?
 ==========================================
 #resources :
 #q/a --> 1

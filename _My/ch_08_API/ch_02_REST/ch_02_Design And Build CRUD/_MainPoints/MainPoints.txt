@@ -8,8 +8,9 @@ Recommended Courses Explain How To Design And Build Crud In REST :
 1- Building a RESTful API with ASP.NET Core 3 - pluralsight
 
 ==========================================
-2.Explain Best And Different Strategies Or Methods
-  To Design And Build Crud Operations In REST
+2.Explain Best And Different Strategies Or Methods To :
+  - Working With Collections
+  - Working With Parent-Childs Relations
 ==========================================
 
 ==========================================
