@@ -1,0 +1,109 @@
+
+
+========================================
+1.What is Real Time Apps ( in general - from web view ) ?
+========================================
+resources :
+1- https://docs.microsoft.com/en-us/aspnet/core/signalr/introduction?view=aspnetcore-5.0
+2- https://www.quora.com/What-are-real-time-application
+3- https://en.wikipedia.org/wiki/Real-time_computing
+4- https://searchunifiedcommunications.techtarget.com/definition/real-time-application-RTA
+
+==========================================
+2.- What Is Mean By Http Is stateless ?
+  - What Is Mean By Http Is request / response or client / server ?
+  - But How Server / Client In Http ?
+==========================================
+resources :
+1- https://stackoverflow.com/questions/13200152/why-is-it-said-that-http-is-a-stateless-protocol
+2- https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview
+3- https://www.geeksforgeeks.org/difference-between-stateless-and-stateful-protocol/
+4- https://www.quora.com/Why-is-HTTP-protocol-called-stateless-protocol
+5- https://www.tutorialspoint.com/http/http_overview.htm
+
+6- https://www.omnisecu.com/tcpip/http-hypertext-transfer-protocol-request-response.php
+
+==========================================
+3.What are the realtime communication protocols available for the web ?
+  - for every type or protocols :
+       - explain how it work ?
+       - see samples code or projects.
+       - explain  the form of the request and response.
+==========================================
+resources :
+1- https://stackoverflow.com/questions/19226761/what-is-the-difference-between-web-sockets-long-polling-server-sent-events-and
+2- https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet
+3- interactive-web.pdf
+
+courses : 
+ Getting Started with ASP.NET Core SignalR - PluralSight
+
+==========================================
+4.Comet technique :
+  - define what is comet technique ?
+  - which real time protocols are used by comet technique ?
+==========================================
+#q/a
+1- https://en.wikipedia.org/wiki/Comet_(programming)
+2- http://webreference.com/programming/javascript/rg30/index-2.html
+3- https://lchandara.wordpress.com/2012/03/06/comet-programming-the-hidden-iframe-technique/
+
+
+
+==========================================
+5.more on server-sent-events
+==========================================
+resources :
+1- https://medium.com/conectric-networks/a-look-at-server-sent-events-54a77f8d6ff7
+2- https://www.tutorialdocs.com/article/server-sent-events-tutorial.html
+
+==========================================
+6.explain what is http Chunking ? and how it work ?
+  - give samples of request and response.
+==========================================
+#q/a
+1- https://en.wikipedia.org/wiki/Chunked_transfer_encoding
+2- https://www.httpwatch.com/httpgallery/chunked/
+3- https://www.oracle.com/technical-resources/articles/javame/chunking.html
+4- https://learn.akamai.com/en-us/webhelp/media-services-live/media-services-live-encoder-compatibility-testing-and-qualification-guide-v4.0/GUID-A7D10A31-F4BC-49DD-92B2-8A5BA409BAFE.html
+5- https://everything.curl.dev/http/response
+6- https://www.codeproject.com/Articles/648526/All-About-HTTP-Chunked-Responses
+
+==========================================
+7.HTTP persistent connection vs parallel connections vs http pipelining
+==========================================
+resources :
+1- https://en.wikipedia.org/wiki/HTTP_persistent_connection
+2- https://whatis.techtarget.com/definition/persistent-connection-HTTP-persistent-connection
+3- https://stackoverflow.com/questions/1480329/what-exactly-does-a-persistent-connection-mean
+4- https://www.oreilly.com/library/view/http-the-definitive/1565925092/ch04s05.html
+5- https://developer.mozilla.org/ar/docs/Web/HTTP/Connection_management_in_HTTP_1.x
+6- https://www.haproxy.com/blog/http-keep-alive-pipelining-multiplexing-and-connection-pooling/
+
+==========================================
+8.
+==========================================
+
+
+==========================================
+9.
+==========================================
+
+
+==========================================
+10.
+==========================================
+
+==========================================
+11.
+==========================================
+
+
+==========================================
+12.
+==========================================
+
+
+==========================================
+13.
+==========================================
