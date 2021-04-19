@@ -1,0 +1,80 @@
+
+
+========================================
+1.what is cashe ?
+  - what are the types of cashing ? explain every type in more details ?
+  - why cash is very important ?
+  - what should i cash ? and where ? in client or server side ?!
+  - what are the model types of cashing ? 
+    explain how every type work and implmented in more details ?
+  - what are the Conditions for caching ?
+========================================
+#resources :
+0- Course --> pluralsight --> Implementing Advanced RESTful Concerns with ASP.NET Core 3
+1- https://tools.ietf.org/html/rfc7234
+2- https://managewp.com/blog/types-of-web-cache
+3- https://www.cloudways.com/blog/beginners-guide-to-web-cache-basics/
+4- https://stackoverflow.com/questions/31958110/cache-is-client-side-or-server-side
+5- https://liyao13.wordpress.com/2017/04/25/client-side-cache-vs-server-side-cache/
+6- https://nordicapis.com/balancing-client-and-server-caching-in-web-application-development/
+7- https://www.quora.com/Whats-the-difference-between-browser-and-server-sided-caching
+
+==========================================
+2.
+==========================================
+#resources :
+
+
+==========================================
+3.
+==========================================
+#resources :
+
+
+==========================================
+4.
+==========================================
+
+
+==========================================
+5.
+==========================================
+
+
+==========================================
+6.
+==========================================
+
+
+==========================================
+7.
+==========================================
+
+
+==========================================
+8.
+==========================================
+
+
+==========================================
+9.
+==========================================
+
+
+==========================================
+10.
+==========================================
+
+==========================================
+11.
+==========================================
+
+
+==========================================
+12.
+==========================================
+
+
+==========================================
+13.
+==========================================

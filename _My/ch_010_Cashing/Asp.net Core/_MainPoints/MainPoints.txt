@@ -1,0 +1,93 @@
+
+==========================================
+1.what are types of cashing on asp.net core or on server side in general ?
+==========================================
+#resources :
+1- https://docs.microsoft.com/en-us/aspnet/core/performance/caching/response?view=aspnetcore-5.0
+2- https://www.devtrends.co.uk/blog/a-guide-to-caching-in-asp.net-core
+
+==========================================
+2.in memory cash ?
+  - what is in-memory cash ?
+  - explain how to config IMemoryCash.
+  - explain how to use IMemoryCash To :
+      - Check , Get , Set Value On Or From Memory Cash.
+==========================================
+#resources :
+1- https://docs.microsoft.com/en-us/aspnet/core/performance/caching/memory?view=aspnetcore-5.0
+
+==========================================
+3.Distributed caching
+  - what is Distributed caching ?
+  - what are types or tools or databases that used for Distributed caching ?
+  - explain how to config and use every type ( Sql Server , Redis , NCash )
+==========================================
+#resources :
+1- https://docs.microsoft.com/en-us/aspnet/core/performance/caching/distributed?view=aspnetcore-5.0
+2- https://www.codeproject.com/Articles/134784/MyCache-Distributed-caching-engine-for-an-ASP-NET
+3- https://www.c-sharpcorner.com/article/working-with-a-distributed-cache-in-asp-net-core/
+
+==========================================
+4.EXPLAIN HOW TO Config Response Caching Middleware in ASP.NET Core
+==========================================
+1- https://docs.microsoft.com/en-us/aspnet/core/performance/caching/middleware?view=aspnetcore-5.0
+
+==========================================
+5.explain ResponseCache Attribute
+==========================================
+1- https://jakeydocs.readthedocs.io/en/latest/performance/caching/response.html
+2- https://www.learmoreseekmore.com/2020/01/how-response-caching-works-in-aspnet.html
+
+==========================================
+6.How to cache static files in ASP.NET Core?
+==========================================
+1- https://andrewlock.net/adding-cache-control-headers-to-static-files-in-asp-net-core/
+2- https://stackoverflow.com/questions/57254048/how-to-cache-static-files-in-asp-net-core
+3- https://stackoverflow.com/questions/61193518/asp-net-core-static-file-caching-doesnt-work
+4- https://stackoverflow.com/questions/29256244/change-the-headers-of-static-files-in-asp-net-core
+5- https://www.meziantou.net/caching-static-resources-forever-with-asp-net-core.htm
+
+==========================================
+7.Expiration Model In ASP.NET Core
+  - Explain How It Work 
+  - How To Configure Expiration Model In Start-Up Class
+  - [ResponseCache] attribute used for ...
+==========================================
+#resources :
+0- Course --> pluralsight --> Implementing Advanced RESTful Concerns with ASP.NET Core 3
+1- https://docs.microsoft.com/en-us/aspnet/core/performance/caching/middleware?view=aspnetcore-2.2
+
+==========================================
+8.Validation Model In ASP.NET Core
+  - Explain How It Work ?
+  - How To Implement ETag for Response Caching ?
+==========================================
+#resources :
+0- Course --> pluralsight --> Implementing Advanced RESTful Concerns with ASP.NET Core 3
+1- https://stackoverflow.com/questions/35458737/implement-http-cache-etag-in-asp-net-core-web-api
+2- https://referbruv.com/blog/posts/implementing-a-simple-etag-for-response-caching-efficiency-in-an-aspnet-core-api
+3- https://www.carlrippon.com/scalable-and-performant-asp-net-core-web-apis-client-caching/
+
+
+==========================================
+9.
+==========================================
+
+
+==========================================
+10.
+==========================================
+
+==========================================
+11.
+==========================================
+
+
+==========================================
+12.
+==========================================
+
+
+==========================================
+13.
+==========================================
