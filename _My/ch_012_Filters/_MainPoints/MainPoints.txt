@@ -1,0 +1,76 @@
+
+
+========================================
+1.- what is filter ?
+  - what are filter types ?
+  - what are Filter scope  ? how to set it ?
+  - what are the Order of execution for the filters in the same level ? how to set the order ?
+  - how to create and use filters ?
+  - how to work with Dependency Injection in Filters ?
+========================================
+#resources :
+1- https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/filters?view=aspnetcore-5.0
+2- https://www.c-sharpcorner.com/article/working-with-filters-in-asp-net-core-mvc/
+3- https://referbruv.com/blog/posts/working-with-filters-in-aspnet-core-explained-with-examples
+4- https://www.devtrends.co.uk/blog/dependency-injection-in-action-filters-in-asp.net-core
+5- https://www.ifourtechnolab.com/blog/dependency-injection-in-action-filters-in-asp-net-core
+6- https://stackoverflow.com/questions/36109052/inject-service-into-action-filter/36109690
+==========================================
+2.
+==========================================
+#resources :
+
+
+==========================================
+3.
+==========================================
+#resources :
+
+
+==========================================
+4.
+==========================================
+
+
+==========================================
+5.
+==========================================
+
+
+==========================================
+6.
+==========================================
+
+
+==========================================
+7.
+==========================================
+
+
+==========================================
+8.
+==========================================
+
+
+==========================================
+9.
+==========================================
+
+
+==========================================
+10.
+==========================================
+
+==========================================
+11.
+==========================================
+
+
+==========================================
+12.
+==========================================
+
+
+==========================================
+13.
+==========================================

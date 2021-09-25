@@ -1,0 +1,88 @@
+
+
+========================================
+1.- what are different ways to build multi-languages in web application
+  - Globalization vs localization vs cultures
+  - list elements to be localized according to culture ?
+  - steps to configure and use Globalization and localization in asp.net core
+  	- what are the types of Request Culture Providers ? where or how web app can know current langugae of user ? 
+  	- steps of Localization in the Business Layer 
+  - what-are-best-practices-for-multi-language-database-design ?
+========================================
+#resources :
+1- https://stackoverflow.com/questions/10533501/best-way-to-make-website-for-multiple-languages
+2- https://stackoverflow.com/questions/373388/best-way-to-implement-multi-language-globalization-in-large-net-project
+3- https://www.infragistics.com/community/blogs/b/codefusion/posts/building-simple-multilingual-asp-net-core-website
+4- https://docs.microsoft.com/en-us/aspnet/core/fundamentals/localization?view=aspnetcore-5.0
+5- https://codepedia.info/multiple-languages-website-asp-net-c
+6- https://www.c-sharpcorner.com/article/how-to-create-multiple-languages-in-asp-net-mvc-4-5-framework/
+7- https://www.mikesdotnetting.com/article/347/localising-data-annotation-attributes-in-razor-pages
+8- http://www.codedigest.com/posts/53/create-multi-language-website-in-aspnet-mvc---localization
+9- https://www.codeproject.com/Articles/1160340/Get-insight-to-build-your-first-Multi-Language-ASP
+10- https://stackoverflow.com/questions/929410/what-are-best-practices-for-multi-language-database-design
+11- https://stackoverflow.com/questions/316780/schema-for-a-multilanguage-database
+12- https://lokalise.com/blog/asp-net-core-localization/
+13- https://www.codemag.com/Article/2009081/A-Deep-Dive-into-ASP.NET-Core-Localization
+14- https://stackoverflow.com/questions/42044458/asp-net-core-localized-resource-in-separate-assembly
+15- https://stackoverflow.com/questions/62155569/how-to-implement-resource-files-localization-asp-net-core
+16- https://stackoverflow.com/questions/43010240/net-core-globalization-and-localization-class-library
+17- https://stackoverflow.com/questions/39006690/asp-net-core-request-localization-options
+==========================================
+2.
+==========================================
+#resources :
+
+
+==========================================
+3.
+==========================================
+#resources :
+
+
+==========================================
+4.
+==========================================
+
+
+==========================================
+5.
+==========================================
+
+
+==========================================
+6.
+==========================================
+
+
+==========================================
+7.
+==========================================
+
+
+==========================================
+8.
+==========================================
+
+
+==========================================
+9.
+==========================================
+
+
+==========================================
+10.
+==========================================
+
+==========================================
+11.
+==========================================
+
+
+==========================================
+12.
+==========================================
+
+
+==========================================
+13.
+==========================================
